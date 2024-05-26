@@ -20,7 +20,7 @@
 
 
 <h2 align="center">
-  <img src="https://github.com/kodeweb2/register/blob/main/images/1-daftar.jpg" width="100%">
+  <img src="https://github.com/kodeweb2/register/blob/main/images/1-daftar-web-utama.png" width="100%">
 </h2>
 ---
 
