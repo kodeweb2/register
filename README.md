@@ -10,7 +10,7 @@
 
 ## Struktur file PHP
 
-- [form_daftar.php] : halaman yang akan ditampilkan untuk menanyakan Nama & Nomor Handphone untuk terdaftar pengguna internet via hotspot tamu. 
+- [form_daftar.php] (https://github.com/kodeweb2/register/blob/main/form_daftar.php) : halaman yang akan ditampilkan untuk menanyakan Nama & Nomor Handphone untuk terdaftar pengguna internet via hotspot tamu. 
 - [create.php] : kode untuk method (post* dari file [form_daftar.php].
 - [form_edit.php] :halaman form yang akan ditampilkan mengubah Nama & Nomor Handphone yang terdaftar.
 - [edit.php] : kode untuk method *post* dari file [form_edit.php].
